@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scrollstop</string>
+    <string name="service_description">Counts how many YouTube Shorts and Instagram Reels you watch and nudges you when you pass your daily goal. It only looks at YouTube and Instagram, stores counts on this phone, and has no internet access.</string>
+</resources>
